@@ -1,7 +1,7 @@
 import discord
 import random
 
-TOKEN = 'MTEwMjgzMjExOTAwMjE4OTgyNA.GSUgsQ.I-kcz4WPmRn6PmxWpQir4E8hfE39VuHhMOAcfk'
+TOKEN = 'seu token aqui'
 intents = discord.Intents.default()
 intents.message_content = True
 intents.voice_states = True
